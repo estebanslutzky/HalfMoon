@@ -1,0 +1,24 @@
+﻿/* CSS Document for Screens */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,300,700);
+
+body{font-family: 'Open Sans',sans-serif;font-size: 16px;font-weight: 300; color:#555; margin:0; padding:0}
+
+#page {max-width:1200px; margi margin:0 auto; position:relative}
+
+
+
+/* Header */
+
+
+/* Navigation */
+
+nav {
+	background-color: #fff;
+	position:absolute;
+	top: 0px; left: 0px;
+	padding: 10px 0 0 120px;
+	width: 100%;
+	height: 70px;
+}
+
